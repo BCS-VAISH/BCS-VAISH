@@ -1,5 +1,7 @@
+                   HI THERE 👋 , I'M VAISHNAVAN
+
 # About Me:
-Hi there 👋, I am an undergraduate in Computer Science and Engineering at NIT
+I am an undergraduate in Computer Science and Engineering at NIT
 Durgapur, India, proficient in various programming languages including C,
 C++
 , SQL, Python, Java, HTML, CSS, and JavaScript. My expertise in
