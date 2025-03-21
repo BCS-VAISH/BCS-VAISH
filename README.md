@@ -11,7 +11,9 @@ contribute to impactful projects in a forward-thinking company
 # Social Media
 # Social Media
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](www.linkedin.com/in/baskaran-vaishnavan-bcs14)
+# Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baskaran-vaishnavan-bcs14)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/BcsVaish14)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/bcs_vaish)
 
