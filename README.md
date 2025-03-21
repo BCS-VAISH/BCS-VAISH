@@ -1,4 +1,5 @@
-                   HI THERE 👋 , I'M VAISHNAVAN
+
+                                              HI THERE 👋 , I'M VAISHNAVAN
 
 # About Me:
 I am an undergraduate in Computer Science and Engineering at NIT
